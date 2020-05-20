@@ -21,6 +21,10 @@ Leetcode Solutions.
 | 918 | Maximum Sum Circular Subarray | Medium |
 | 328 | Odd Even Linked List | Medium |
 | 438 | Find All Anagrams in a String | Medium |
+| 567 | Permutation in String | Medium |
+| 901 | Online Stock Span | Medium |
+| 230 |Kth Smallest Element in a BST | Medium |
+
 
 
 ## License
