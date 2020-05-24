@@ -24,8 +24,10 @@ Leetcode Solutions.
 | 567 | Permutation in String | Medium |
 | 901 | Online Stock Span | Medium |
 | 230 |Kth Smallest Element in a BST | Medium |
-
-
+| 1277 | Count Square Submatrices with All Ones | Medium |
+| 451 |Sort Characters By Frequency | Medium |
+| 986 |Interval List Intersections | Medium |
+| 1008 |Construct Binary Search Tree from Preorder Traversal | Medium |
 
 ## License
 <a rel="license" href="https://github.com/varnika98/Leetcode/blob/master/LICENSE">Creative Commons License</a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0//">Creative Commons Zero v1.0 Universal</a>.
